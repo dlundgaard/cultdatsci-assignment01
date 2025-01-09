@@ -1,3 +1,5 @@
 /*
 !.gitignore
-!concordance.ipynb
+!*.ipynb
+!minimal.mplstyle
+!data/
